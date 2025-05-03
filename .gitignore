@@ -1,0 +1,17 @@
+# Ignore log files
+*.log
+
+# Ignore system configuration files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore Node.js dependencies (if you have a Node.js project)
+node_modules/
+
+# Ignore Python compilation files
+__pycache__/
+*.pyc

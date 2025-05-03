@@ -1,0 +1,20 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de sistema do macOS
+.DS_Store
+
+# Ignorar arquivos de configuração do editor (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Ignorar diretórios de compilação
+build/
+dist/
+
+# Ignorar dependências do Node.js (caso tenha um projeto Node.js)
+node_modules/
+
+# Ignorar arquivos de compilação do Python
+__pycache__/
+*.pyc

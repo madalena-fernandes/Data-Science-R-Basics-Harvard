@@ -1,6 +1,17 @@
 # Data Science R Basics – HarvardX
 
-This repository contains my solutions and notes from the **Data Science: R Basics** course offered by HarvardX on edX.
+This repository contains materials related to the [HarvardX](https://online-learning.harvard.edu/course/data-science-r-basics) online course **"Data Science: R Basics"** offered by HarvardX on edX., part of the Professional Certificate in Data Science.
+
+## 📘 About the Course
+
+The course introduces the fundamentals of R programming used in data science. It covers:
+
+- The R language and RStudio environment
+- Basic programming concepts (variables, functions, loops)
+- Data types and structures
+- Data visualization with ggplot2
+- Working with datasets (importing, cleaning, manipulating)
+- Basic statistical concepts
 
 ## 📁 Repository Structure
 
@@ -43,10 +54,6 @@ install.packages("tidyverse")
 install.packages("readxl")
 install.packages("ggplot2")
 ```
-
-## 📚 Course Description
-
-This course is part of Harvard's Professional Certificate in Data Science and provides a foundational introduction to R programming and basic data analysis techniques.
 
 ## 📜 License
 
